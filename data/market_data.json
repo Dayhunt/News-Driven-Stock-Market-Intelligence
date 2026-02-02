@@ -1,0 +1,302 @@
+{
+    "TSLA": {
+        "symbol": "TSLA",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 432.61,
+        "high": 432.61,
+        "low": 430.1,
+        "close": 430.44,
+        "volume": 1754590,
+        "news_linked": true
+    },
+    "MSFT": {
+        "symbol": "MSFT",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 428.02,
+        "high": 430.42,
+        "low": 427.99,
+        "close": 430.39,
+        "volume": 1517698,
+        "news_linked": true
+    },
+    "GOOGL": {
+        "symbol": "GOOGL",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 337.61,
+        "high": 338.45,
+        "low": 337.3,
+        "close": 338.23,
+        "volume": 1212312,
+        "news_linked": true
+    },
+    "XOM": {
+        "symbol": "XOM",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 141.86,
+        "high": 141.99,
+        "low": 141.1,
+        "close": 141.61,
+        "volume": 1801644,
+        "news_linked": true
+    },
+    "CVX": {
+        "symbol": "CVX",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 177.19,
+        "high": 177.3,
+        "low": 176.19,
+        "close": 177.01,
+        "volume": 1313199,
+        "news_linked": true
+    },
+    "AMZN": {
+        "symbol": "AMZN",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 238.16,
+        "high": 239.61,
+        "low": 237.64,
+        "close": 239.26,
+        "volume": 14829254,
+        "news_linked": true
+    },
+    "NVDA": {
+        "symbol": "NVDA",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 191.14,
+        "high": 191.42,
+        "low": 190.35,
+        "close": 191.29,
+        "volume": 4010661,
+        "news_linked": true
+    },
+    "AAPL": {
+        "symbol": "AAPL",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 259.8,
+        "high": 260.06,
+        "low": 258.0,
+        "close": 259.48,
+        "volume": 4209740,
+        "news_linked": false
+    },
+    "META": {
+        "symbol": "META",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 715.7,
+        "high": 717.27,
+        "low": 714.5,
+        "close": 716.44,
+        "volume": 785735,
+        "news_linked": false
+    },
+    "JPM": {
+        "symbol": "JPM",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 305.55,
+        "high": 306.15,
+        "low": 305.16,
+        "close": 306.11,
+        "volume": 883239,
+        "news_linked": false
+    },
+    "V": {
+        "symbol": "V",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 321.91,
+        "high": 322.33,
+        "low": 321.68,
+        "close": 321.87,
+        "volume": 735014,
+        "news_linked": false
+    },
+    "UNH": {
+        "symbol": "UNH",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 287.36,
+        "high": 287.78,
+        "low": 286.91,
+        "close": 287.05,
+        "volume": 558152,
+        "news_linked": false
+    },
+    "WMT": {
+        "symbol": "WMT",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 119.15,
+        "high": 119.25,
+        "low": 119.0,
+        "close": 119.18,
+        "volume": 1401932,
+        "news_linked": false
+    },
+    "JNJ": {
+        "symbol": "JNJ",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 227.44,
+        "high": 227.77,
+        "low": 226.92,
+        "close": 227.33,
+        "volume": 994754,
+        "news_linked": false
+    },
+    "BAC": {
+        "symbol": "BAC",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 53.31,
+        "high": 53.35,
+        "low": 53.2,
+        "close": 53.24,
+        "volume": 2404113,
+        "news_linked": false
+    },
+    "HD": {
+        "symbol": "HD",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 374.27,
+        "high": 374.92,
+        "low": 374.05,
+        "close": 374.62,
+        "volume": 376656,
+        "news_linked": false
+    },
+    "PG": {
+        "symbol": "PG",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 151.84,
+        "high": 151.9,
+        "low": 151.73,
+        "close": 151.82,
+        "volume": 954216,
+        "news_linked": false
+    },
+    "LLY": {
+        "symbol": "LLY",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 1034.96,
+        "high": 1038.02,
+        "low": 1034.92,
+        "close": 1037.99,
+        "volume": 211966,
+        "news_linked": false
+    },
+    "MRK": {
+        "symbol": "MRK",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 110.38,
+        "high": 110.54,
+        "low": 110.2,
+        "close": 110.34,
+        "volume": 1258390,
+        "news_linked": false
+    },
+    "ABBV": {
+        "symbol": "ABBV",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 223.26,
+        "high": 223.35,
+        "low": 222.77,
+        "close": 222.98,
+        "volume": 615400,
+        "news_linked": false
+    },
+    "COST": {
+        "symbol": "COST",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 939.86,
+        "high": 940.74,
+        "low": 938.71,
+        "close": 940.26,
+        "volume": 125093,
+        "news_linked": false
+    },
+    "AVGO": {
+        "symbol": "AVGO",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 331.32,
+        "high": 331.6,
+        "low": 330.03,
+        "close": 331.42,
+        "volume": 863934,
+        "news_linked": false
+    },
+    "PEP": {
+        "symbol": "PEP",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 153.45,
+        "high": 153.88,
+        "low": 153.24,
+        "close": 153.66,
+        "volume": 881118,
+        "news_linked": false
+    },
+    "KO": {
+        "symbol": "KO",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 74.83,
+        "high": 74.89,
+        "low": 74.81,
+        "close": 74.85,
+        "volume": 1447355,
+        "news_linked": false
+    },
+    "ORCL": {
+        "symbol": "ORCL",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 164.32,
+        "high": 165.05,
+        "low": 164.21,
+        "close": 164.6,
+        "volume": 1041138,
+        "news_linked": false
+    },
+    "TMO": {
+        "symbol": "TMO",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 577.08,
+        "high": 578.85,
+        "low": 576.92,
+        "close": 578.37,
+        "volume": 677266,
+        "news_linked": false
+    },
+    "ACN": {
+        "symbol": "ACN",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 263.15,
+        "high": 263.74,
+        "low": 263.15,
+        "close": 263.74,
+        "volume": 372796,
+        "news_linked": false
+    },
+    "CRM": {
+        "symbol": "CRM",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 211.97,
+        "high": 212.61,
+        "low": 211.87,
+        "close": 212.32,
+        "volume": 762786,
+        "news_linked": false
+    },
+    "NFLX": {
+        "symbol": "NFLX",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 83.52,
+        "high": 83.55,
+        "low": 83.37,
+        "close": 83.5,
+        "volume": 1796665,
+        "news_linked": false
+    },
+    "AMD": {
+        "symbol": "AMD",
+        "timestamp": "2026-01-30 15:55:00-05:00",
+        "open": 236.77,
+        "high": 237.07,
+        "low": 236.0,
+        "close": 236.78,
+        "volume": 1091737,
+        "news_linked": false
+    }
+}

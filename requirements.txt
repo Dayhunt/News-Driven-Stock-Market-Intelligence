@@ -1,0 +1,16 @@
+streamlit
+streamlit-autorefresh
+pandas
+numpy
+requests
+python-dotenv
+yfinance
+transformers
+torch
+sentencepiece
+accelerate
+keybert
+spacy
+nltk
+plotly
+feedparser
